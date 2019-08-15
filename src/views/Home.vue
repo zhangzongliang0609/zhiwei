@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-   <h1>你好</h1>
+   <h1>你？？？？？？？</h1>
   </div>
 </template>
 
